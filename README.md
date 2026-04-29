@@ -9,9 +9,9 @@
 | Dataset ID | `804488` |
 | Location | Cleveland, OH |
 | Category | Restaurants |
-| Full dataset size | 12 records |
-| Free sample size | 1 records (8.33%) |
-| Last export | 2026-04-21T23:49:23.075999+00:00 |
+| Full dataset size | 15 records |
+| Free sample size | 1 records (6.67%) |
+| Last export | 2026-04-29T03:20:06.621414+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-cleveland-metro-ohio-us-sample-804488/releases/download/sample-latest/beamstation_804488_food_and_drink-us-clevelandoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
