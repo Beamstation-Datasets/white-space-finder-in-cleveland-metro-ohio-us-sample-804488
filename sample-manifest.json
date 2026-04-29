@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6ee615d3-b949-4aba-add6-86958fa5ee5b",
+  "export_job_id": "9883bbea-c97b-4934-b56c-0072e3ac87f5",
   "id_short": 804488,
-  "published_at": "2026-04-22T08:00:00Z",
+  "published_at": "2026-04-29T19:14:39Z",
   "repo_name": "white-space-finder-in-cleveland-metro-ohio-us-sample-804488",
   "sample_asset_name": "beamstation_804488_food_and_drink-us-clevelandoh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/804488/beamstation_804488_food_and_drink-us-clevelandoh_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "ecbc3f90f291d090f555fb85726981b616320437bc0d31ee6d688bf869d9f84f",
-  "sample_size_bytes": 22740,
-  "total_records": 12
+  "sample_sha256": "ea3cb95eb21a0f98276dce7f0f8ea654d9ee3582cd3020f5602d8346295a6817",
+  "sample_size_bytes": 19615,
+  "total_records": 15
 }
