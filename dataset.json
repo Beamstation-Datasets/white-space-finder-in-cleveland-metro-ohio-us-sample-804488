@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Cleveland, OH that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Cleveland (Metro), Ohio, US",
-  "export_job_id": "6ee615d3-b949-4aba-add6-86958fa5ee5b",
+  "export_job_id": "9883bbea-c97b-4934-b56c-0072e3ac87f5",
   "github_org": "Beamstation-Datasets",
   "id_short": 804488,
   "location_name": "Cleveland, OH",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-cleveland-metro-ohio-us-sample-804488",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/804488/beamstation_804488_food_and_drink-us-clevelandoh_SAMPLE_DIST.csv",
-  "sample_pct": 8.33,
+  "sample_pct": 6.67,
   "sample_records": 1,
-  "sample_sha256": "ecbc3f90f291d090f555fb85726981b616320437bc0d31ee6d688bf869d9f84f",
-  "sample_size_bytes": 22740,
-  "total_records": 12,
-  "updated_at": "2026-04-21T23:49:23.075999+00:00"
+  "sample_sha256": "ea3cb95eb21a0f98276dce7f0f8ea654d9ee3582cd3020f5602d8346295a6817",
+  "sample_size_bytes": 19615,
+  "total_records": 15,
+  "updated_at": "2026-04-29T03:20:06.621414+00:00"
 }
